@@ -20,4 +20,6 @@
 - install用于安装相应的依赖
 - file用于更新package.json方法
 
-### 本次作业分两个git上交地址分别为https://github.com/PeculiarCode/module3_auto_build和https://github.com/PeculiarCode/module_3
+### 本次作业分两个git上交地址分别为
+- https://github.com/PeculiarCode/module3_auto_build
+- https://github.com/PeculiarCode/module_3
