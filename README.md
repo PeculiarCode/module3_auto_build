@@ -7,7 +7,7 @@
 3. npm link
 4. ycli create module_name
 
-**特别说明** 
+### 特别说明
 如果出现Cannot find module或者File exists则将对应package.json目录的bin对象对应的key重命名为rename_cli执行npm link
 最后执行rename_cli create module_name
 ### 构建说明
